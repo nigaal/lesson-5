@@ -1,0 +1,120 @@
+.nav-top {
+    display: flex;
+    margin-left: 597px;
+}
+.main {
+    display: flex;
+    align-items: center;
+}
+.Logo {
+    margin-left: 135px;
+    margin-top: 35px;
+}
+.li-item {
+    margin-left: 30px;
+}
+.sec1 {
+    display: flex;
+    margin-top: 126px;
+    align-items: center;
+    margin-left: 150px;
+}
+.txt1 {
+    margin-left: 110px;
+    font-weight: 700;
+    font-size: 40px;
+}
+.txt2 {
+    margin-top: 16px;
+    margin-left: 110px;
+    font-size: 15px;
+    font-weight: 400;
+}
+.block1 {
+    width: 470px;
+}
+.action {
+    width: 170px;
+    height: 48px;
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+    margin-top: 16px;
+    margin-left: 110px;
+}
+.action-txt {
+    font-weight: 400;
+    font-size: 20px;
+    margin-top: 13px;
+}
+.block2 {
+    width: 470px;
+}
+.txt3 {
+    margin-left: 110px;
+    font-weight: 700;
+    font-size: 40px;
+    margin-top: 219.93px;
+}
+.txt4 {
+    margin-top: 16px;
+    margin-left: 110px;
+    font-size: 15px;
+    font-weight: 400;
+}
+.sec2 {
+    width: 1180px;
+    margin-top: 64.57px;
+    display: flex;
+}
+.img2 {
+    margin-left: 110px;
+}
+.sec-3 {
+    margin-left: 50px;
+    margin-top: 45px;
+}
+.talents-img {
+    margin-left: 47px;
+}
+.sec-3txt {
+    color: #74C69D;
+    font-size: 16px;
+    font-weight: 700;
+    margin-left: 660px;
+    margin-top: 120.27px; 
+}
+.sec-3-1txt {
+    font-weight: 700;
+    font-size: 40px;
+    margin-top: 16px;
+    margin-left: 599px;
+
+}
+.action1 {
+    width: 170px;
+    height: 48px;
+    background-color: #212529;
+    color: white;
+    display: flex;
+    justify-content: center;
+    margin-top: 45px;
+    margin-left: 590px;
+}
+.action-txt1 {
+    font-weight: 400;
+    font-size: 20px;
+    margin-top: 13px;
+}
+.burger-bar {
+    display: none;
+}
+@media (max-width: 480px) {
+    .nav-top {
+        display: none;
+    }
+    .burger-bar {
+        display: block;
+    }
+}
